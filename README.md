@@ -17,7 +17,7 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+- 🎯 Portfolio site: [Portfolio](https://manikandan97.github.io/rsmk).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=manikandan97&hide=["issues"]&show_icons=true)
