@@ -9,15 +9,15 @@ I am Manikandan 😃. I am from Madurai, Tamilnadu
 I love to explore and learn about new things.
 ## ⚡ Technologies
 Talk to me about:
+- Mobile application development using **Kotlin and Java**.
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Nodejs, SpingBoot**.
 - Robust full-stack system design implementation.
-- Mobile application development using **Kotlin and Java**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 🎯 Portfolio site: [Portfolio](https://manikandan97.github.io/rsmk).
+- 🎯 Portfolio site: [Portfolio](https://manikandan.web.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=manikandan97&hide=["issues"]&show_icons=true)
