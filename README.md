@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manikandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manikandan-sureshbabu/)](https://www.linkedin.com/in/manikandan-sureshbabu/)
-[![Gmail Badge](https://img.shields.io/badge/-rsmani.kand97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mani.kand97@gmail.com)](mailto:rsmani.kand97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rsmanikandan.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsmanikandan.dev@gmail.com)](mailto:rsmanikandan.dev@gmail.com)
 
 I am Manikandan 😃. I am from Madurai, Tamilnadu
 I love to explore and learn about new things.
