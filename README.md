@@ -26,4 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manikandan_97"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manikandan_97" /></a></p><br><br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manikandan97)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikandan97&show_icons=true&locale=en" alt="manikandan97" /></p>
